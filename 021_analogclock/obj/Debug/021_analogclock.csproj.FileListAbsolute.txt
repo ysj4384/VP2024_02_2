@@ -1,0 +1,11 @@
+C:\Users\konyang\source\repos\VP02_2024\021_analogclock\bin\Debug\021_analogclock.exe.config
+C:\Users\konyang\source\repos\VP02_2024\021_analogclock\bin\Debug\021_analogclock.exe
+C:\Users\konyang\source\repos\VP02_2024\021_analogclock\bin\Debug\021_analogclock.pdb
+C:\Users\konyang\source\repos\VP02_2024\021_analogclock\obj\Debug\021_analogclock.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\VP02_2024\021_analogclock\obj\Debug\021_analogclock.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\source\repos\VP02_2024\021_analogclock\obj\Debug\_021_analogclock.Form1.resources
+C:\Users\konyang\source\repos\VP02_2024\021_analogclock\obj\Debug\_021_analogclock.Properties.Resources.resources
+C:\Users\konyang\source\repos\VP02_2024\021_analogclock\obj\Debug\021_analogclock.csproj.GenerateResource.cache
+C:\Users\konyang\source\repos\VP02_2024\021_analogclock\obj\Debug\021_analogclock.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\VP02_2024\021_analogclock\obj\Debug\021_analogclock.exe
+C:\Users\konyang\source\repos\VP02_2024\021_analogclock\obj\Debug\021_analogclock.pdb
