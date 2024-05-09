@@ -1,4 +1,4 @@
-﻿namespace _021_analogclock
+﻿namespace sensormonitoring
 {
     partial class Form1
     {
@@ -28,102 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.ㅂ기ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.아날로그ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.디지털ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
-            this.종료ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.옵션ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.menuStrip1.SuspendLayout();
-            this.SuspendLayout();
-            // 
-            // menuStrip1
-            // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.ㅂ기ToolStripMenuItem,
-            this.옵션ToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(431, 24);
-            this.menuStrip1.TabIndex = 0;
-            this.menuStrip1.Text = "menuStrip1";
-            // 
-            // ㅂ기ToolStripMenuItem
-            // 
-            this.ㅂ기ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.아날로그ToolStripMenuItem,
-            this.디지털ToolStripMenuItem,
-            this.toolStripSeparator1,
-            this.종료ToolStripMenuItem});
-            this.ㅂ기ToolStripMenuItem.Name = "ㅂ기ToolStripMenuItem";
-            this.ㅂ기ToolStripMenuItem.Size = new System.Drawing.Size(43, 20);
-            this.ㅂ기ToolStripMenuItem.Text = "보기";
-            // 
-            // 아날로그ToolStripMenuItem
-            // 
-            this.아날로그ToolStripMenuItem.Name = "아날로그ToolStripMenuItem";
-            this.아날로그ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.아날로그ToolStripMenuItem.Text = "아날로그";
-            // 
-            // 디지털ToolStripMenuItem
-            // 
-            this.디지털ToolStripMenuItem.Name = "디지털ToolStripMenuItem";
-            this.디지털ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.디지털ToolStripMenuItem.Text = "디지털";
-            // 
-            // toolStripSeparator1
-            // 
-            this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(177, 6);
-            // 
-            // 종료ToolStripMenuItem
-            // 
-            this.종료ToolStripMenuItem.Name = "종료ToolStripMenuItem";
-            this.종료ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.종료ToolStripMenuItem.Text = "종료";
-            // 
-            // 옵션ToolStripMenuItem
-            // 
-            this.옵션ToolStripMenuItem.Name = "옵션ToolStripMenuItem";
-            this.옵션ToolStripMenuItem.Size = new System.Drawing.Size(43, 20);
-            this.옵션ToolStripMenuItem.Text = "옵션";
-            // 
-            // panel1
-            // 
-            this.panel1.Location = new System.Drawing.Point(12, 27);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(407, 411);
-            this.panel1.TabIndex = 1;
-            // 
-            // Form1
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(431, 450);
-            this.Controls.Add(this.panel1);
-            this.Controls.Add(this.menuStrip1);
-            this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Form1";
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Text = "Form1";
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
         }
 
         #endregion
-
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem ㅂ기ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 아날로그ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 디지털ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
-        private System.Windows.Forms.ToolStripMenuItem 종료ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 옵션ToolStripMenuItem;
-        private System.Windows.Forms.Panel panel1;
     }
 }
 
